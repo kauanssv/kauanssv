@@ -10,8 +10,8 @@
   <h3>🎨Front-End Developer</h3>
 </div>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauanssv&show_icons=true&theme=vision-friendly-dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanssv&layout=compact&theme=vision-friendly-dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kauanssv&show_icons=true&theme=vision-friendly-dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanssv&layout=compact&theme=vision-friendly-dark">
 </div>
 <div align="center">
   <h3>Ferramentas que utilizo</h3>
