@@ -16,9 +16,9 @@
 <hr>
 <div align="center">
   <h3>Ferramentas que utilizo</h3>
-  <img src="https://skillicons.dev/icons?i=js,css,html,git,figma,bootstrap">
+  <img src="https://skillicons.dev/icons?i=react,js,css,html,git,figma,bootstrap">
   <h3>Ferramentas que irei estudar</h3>
-  <img src="https://skillicons.dev/icons?i=ts,react,scss,nodejs">
+  <img src="https://skillicons.dev/icons?i=ts,scss,nodejs">
   <hr>
 </div>
 
