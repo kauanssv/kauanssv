@@ -7,7 +7,7 @@
   <h1>Me chamo Kauan.</h1>
   <h3>💤 20 anos | 26/05/2004.</h3>
   <h3>💻 Formado em Desenvolvimento de Sistemas | Etec de Guaianases.</h3>
-  <h3>🎨Front-End Developer</h3>
+  <h3>🎨Web Developer</h3>
 </div>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kauanssv&show_icons=true&theme=neon">
