@@ -9,10 +9,6 @@
   <h3>💻 Cursando Técnologo em Desenvolvimento de Sistemas | Unicid.</h3>
   <h3>📈Analista de Dados</h3>
 </div>
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kauanssv&show_icons=true&theme=neon">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanssv&layout=compact&theme=neon">
-</div>
 </div>
 
 
