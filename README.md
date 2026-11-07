@@ -2,9 +2,9 @@
   <h1>Olá! Eu sou o Kauan ☕</h1>
 
   <p>
-    Técnico em Desenvolvimento de Sistemas pela Etec de Guaianases.<br>
-    Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UNICID.<br>
-    Trabalho com administração e desenvolvimento Salesforce.
+    <h3>Técnico em Desenvolvimento de Sistemas pela Etec de Guaianases.</h3>
+    <h3>Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UNICID.</h3>
+    <h3>Trabalho com administração e desenvolvimento Salesforce.</h3>
   </p>
 
   <h3>🛠️ Tecnologias e ferramentas</h3>
