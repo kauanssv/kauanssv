@@ -1,9 +1,14 @@
 <div align="left">
-  <h2>Quer um pouco de café?☕</h2>
-  <h1>Me chamo Kauan.</h1>
-  <h3>💻 Formado em Desenvolvimento de Sistemas | Etec de Guaianases.</h3>
-  <h3>💻 Cursando Tecnólogo em Desenvolvimento de Sistemas | Unicid.</h3>
-  <h3>📈 Administrador e Programador Salesforce</h3>
+
+  <h1>Olá! Eu sou o Kauan ☕</h1>
+
+  <p>
+    Técnico em Desenvolvimento de Sistemas pela Etec de Guaianases.<br>
+    Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UNICID.<br>
+    Trabalho com administração e desenvolvimento Salesforce.
+  </p>
+
+  <h3>🛠️ Tecnologias e ferramentas</h3>
 
   <p>
     <img alt="Salesforce" height="30" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
@@ -12,8 +17,8 @@
     <img alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="Git" height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img alt="GitHub" height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="Power BI" height="30" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+    <img alt="Power BI" height="30" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+    <img alt="Scrum" height="30" src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge">
   </p>
+
 </div>
-
-
